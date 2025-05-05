@@ -1,7 +1,5 @@
 # Fractals
 
-___
-
 ## Heighway's dragon curve
 
 ![Heighway's dragon curve gif](/gifs/curve.gif)
